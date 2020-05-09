@@ -8,4 +8,10 @@ document.addEventListener("DOMContentLoaded", function () {
     opacity: 0.3
 
   });
+
+  gsap.from("#chart", {
+    duration: 1,
+    x: -500,
+    opacity: 0.3
+  })
 });
