@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  $("p").click(function () {
-    $(this).hide();
+  $("#p1").mouseenter(function () {
+    alert("You entered p1!");
   });
 });
