@@ -9,7 +9,7 @@
 
 var pJS = function (tag_id, params) {
 
-  var canvas_el = document.querySelector('#particles');
+  var canvas_el = document.querySelector('#particles.js');
 
   /* particles.js variables with default values */
   this.pJS = {
