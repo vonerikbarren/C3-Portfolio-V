@@ -12,6 +12,6 @@
 
 ## Stage 4 - Developing the Website 
 
-## Stage 5
+## Stage 5 - Finishing the Website 
 
 ## Summary 
