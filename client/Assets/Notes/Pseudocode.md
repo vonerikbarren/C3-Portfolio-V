@@ -28,6 +28,7 @@
 
 
 ## Stage 4 - Developing the Website 
+1. When developing make sure that we work form a functional perspective and add design and more features as we move along the project. 
 
 ## Stage 5 - Finishing the Website 
 
