@@ -11,6 +11,7 @@
 2. Find a common theme that I can either build from or build myself 
 3. When creating the layout, use concepts on iPad Pro
 4. When working on the iPad Pro, remember to build assets and saving them in the tool bar for continued use. 
+5. Create something minimalistic and yet triggering for the users to see and to experience. 
 
 ## Stage 2 - Gathering the Assets necessary
 
