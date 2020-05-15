@@ -2,6 +2,8 @@
 
 ## Overview for Project 
 
+## Notes
+
 ## Stage 1
 
 ## Stage 2
