@@ -12,6 +12,7 @@
 3. When creating the layout, use concepts on iPad Pro
 4. When working on the iPad Pro, remember to build assets and saving them in the tool bar for continued use. 
 5. Create something minimalistic and yet triggering for the users to see and to experience. 
+6. We are using bootstrap so its important we use grid numbers within our assets and have those as reusable assets we can design with in the future.
 
 ## Stage 2 - Gathering the Assets necessary
 1. We have two websites, vecteezy and the icon website we spend money on paying so we need to use both moving forward. --> Focus on SVG images and maybe png images. 
@@ -21,6 +22,7 @@
 5. Finally for animations, we should learn how to use more features of gsap and implement them in the portfolio. Try to make reusable code. 
 
 ## Stage 3 - Creating the Grid
+
 
 ## Stage 4 - Developing the Website 
 
