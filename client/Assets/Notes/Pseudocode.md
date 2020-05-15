@@ -14,7 +14,8 @@
 5. Create something minimalistic and yet triggering for the users to see and to experience. 
 
 ## Stage 2 - Gathering the Assets necessary
-1. We have two websites, vecteezy and the icon website we spend money on paying so we need to use both moving forward. --> Focus on SVG images and maybe png images 
+1. We have two websites, vecteezy and the icon website we spend money on paying so we need to use both moving forward. --> Focus on SVG images and maybe png images. 
+2. When using our gradients, lets focus on sectional gradients that can blend in with a main color for the whole page. That way we can be more creative with our assets and how they can look, or how we can hover over them. 
 
 ## Stage 3 - Creating the Grid
 
