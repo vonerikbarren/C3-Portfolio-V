@@ -8,7 +8,7 @@
 
 ## Stage 2 - Gathering the Assets necessary
 
-## Stage 3
+## Stage 3 - Creating the Grid
 
 ## Stage 4
 
