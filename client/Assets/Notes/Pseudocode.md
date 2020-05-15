@@ -4,6 +4,7 @@
 
 ## Notes
 - Build this tomorrow 
+- Start on design first
 
 ## Stage 1 - Designing the Website
 
