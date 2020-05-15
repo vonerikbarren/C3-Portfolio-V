@@ -31,5 +31,6 @@
 1. When developing make sure that we work form a functional perspective and add design and more features as we move along the project. 
 
 ## Stage 5 - Finishing the Website 
+1. Create a website from the github settings on the repo and make it available for public. 
 
 ## Summary 
