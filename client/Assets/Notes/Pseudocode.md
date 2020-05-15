@@ -3,6 +3,7 @@
 ## Overview for Project 
 
 ## Notes
+- Build this tomorrow 
 
 ## Stage 1 - Designing the Website
 
