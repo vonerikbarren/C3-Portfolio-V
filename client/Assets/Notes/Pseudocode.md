@@ -4,7 +4,7 @@
 
 ## Notes
 
-## Stage 1
+## Stage 1 - Designing the Website
 
 ## Stage 2
 
