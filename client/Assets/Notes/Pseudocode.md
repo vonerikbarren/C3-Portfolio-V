@@ -6,7 +6,7 @@
 
 ## Stage 1 - Designing the Website
 
-## Stage 2
+## Stage 2 - Gathering the Assets necessary
 
 ## Stage 3
 
