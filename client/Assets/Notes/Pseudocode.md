@@ -14,6 +14,7 @@
 5. Create something minimalistic and yet triggering for the users to see and to experience. 
 
 ## Stage 2 - Gathering the Assets necessary
+1. We have two websites, vecteezy and the icon website we spend money on paying so we need to use both moving forward. --> Focus on SVG images and maybe png images 
 
 ## Stage 3 - Creating the Grid
 
