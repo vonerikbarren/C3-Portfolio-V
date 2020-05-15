@@ -8,7 +8,7 @@
 
 ## Stage 1 - Designing the Website
 1. Find 5 basic minimal sites and get ideas
-2. 
+2. Find a common theme that I can either build from or build myself 
 
 ## Stage 2 - Gathering the Assets necessary
 
