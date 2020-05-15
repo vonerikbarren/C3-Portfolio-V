@@ -32,5 +32,6 @@
 
 ## Stage 5 - Finishing the Website 
 1. Create a website from the github settings on the repo and make it available for public. 
+2. Try to figure out how to change the name of the github repo website url if possible. 
 
 ## Summary 
