@@ -17,6 +17,7 @@
 1. We have two websites, vecteezy and the icon website we spend money on paying so we need to use both moving forward. --> Focus on SVG images and maybe png images. 
 2. When using our gradients, lets focus on sectional gradients that can blend in with a main color for the whole page. That way we can be more creative with our assets and how they can look, or how we can hover over them. 
 3. However apps we are going to start learning, we need to implement those soon at least 5 so we can have several projects up and running to be viewed. 
+4. If we are using any gifs or jpegs on the site, remember that the height and width must be defined within the <img> tag. 
 
 ## Stage 3 - Creating the Grid
 
