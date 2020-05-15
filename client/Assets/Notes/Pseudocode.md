@@ -24,6 +24,7 @@
 ## Stage 3 - Creating the Grid
 1. Using the grid from our design, try my best to implement the grid system from design into website. Use jumbotrons where necessary and also have a central css file for the page. 
 2. If there are any animations specifically on the grid system itself, that should be programmed as well to keep with our workflow. 
+3. Begin re-creating the design onto the website and include the Navbar at the top of the page. 
 
 
 ## Stage 4 - Developing the Website 
