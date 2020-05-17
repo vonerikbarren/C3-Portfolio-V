@@ -14,4 +14,17 @@ document.addEventListener("DOMContentLoaded", function () {
     x: -500,
     opacity: 0.3
   })
+
+  gsap.from("#svg", {
+    duration: 1,
+    x: -500,
+    opacity: 0.3
+  })
+
+  gsap.to("#svg", {
+    duration: 1,
+    x: 700,
+
+  })
+
 });

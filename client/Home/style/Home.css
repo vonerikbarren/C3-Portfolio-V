@@ -4,8 +4,6 @@
   }
 
   #svg {
-    background-size: cover;
- height: 0;
- padding: 0; /* reset */
- padding-bottom: calc(100% * 3 / 4);
+    height: 300px;
+    width: auto;
   }
